@@ -1,2 +1,2 @@
-# snake_stm32
+# snake-stm32
 Snake clone on STM32 microcontroller
