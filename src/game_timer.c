@@ -1,8 +1,8 @@
 #include <gpio.h>
 #include <stm32.h>
 
-#include "../headers/game_timer.h"
-#include "../headers/game_manager.h"
+#include "game_timer.h"
+#include "game_manager.h"
 
 /* Initial configuration of game timer */
 void gameTimerConfigure() {

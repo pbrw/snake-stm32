@@ -1,8 +1,8 @@
 #include <gpio.h>
 #include <stm32.h>
 
-#include "../headers/button.h"
-#include "../headers/game_manager.h"
+#include "button.h"
+#include "game_manager.h"
 
 /* Information about keypad buttons */
 static struct Button buttons[BUTTONS_NUM];

@@ -1,8 +1,8 @@
 #include <gpio.h>
 #include <stm32.h>
 
-#include "../headers/keypad.h"
-#include "../headers/keypad_timer.h"
+#include "keypad.h"
+#include "keypad_timer.h"
 
 /* Keypad driver */
 

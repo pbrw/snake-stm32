@@ -1,9 +1,9 @@
 #include <gpio.h>
 #include <stm32.h>
 
-#include "../headers/keypad.h"
-#include "../headers/button.h"
-#include "../headers/keypad_timer.h"
+#include "keypad.h"
+#include "button.h"
+#include "keypad_timer.h"
 
 
 /* Initial configuration of keypad timer */

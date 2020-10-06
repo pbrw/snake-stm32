@@ -1,5 +1,5 @@
-#include "../headers/game_manager.h"
-#include "../headers/lcd.h"
+#include "game_manager.h"
+#include "lcd.h"
 
 #include <string.h>
 #include <stdlib.h>

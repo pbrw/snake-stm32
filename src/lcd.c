@@ -1,4 +1,4 @@
-#include "../headers/lcd.h"
+#include "lcd.h"
 
 #include <fonts.h>
 #include <delay.h>

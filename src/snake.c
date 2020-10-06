@@ -1,9 +1,9 @@
-#include "../headers/game_timer.h"
-#include "../headers/keypad_timer.h"
-#include "../headers/keypad.h"
-#include "../headers/lcd.h"
-#include "../headers/game_manager.h"
-#include "../headers/button.h"
+#include "game_timer.h"
+#include "keypad_timer.h"
+#include "keypad.h"
+#include "lcd.h"
+#include "game_manager.h"
+#include "button.h"
 
 int main() {
     LCDconfigure();
