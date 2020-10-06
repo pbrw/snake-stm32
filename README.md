@@ -2,7 +2,7 @@
 
 This project was an assignment for an elective subject - "microcontrollers". We had to develop something for an STM32 microcontroller which used at least two hardware interrupts. Therefore I grabbed an LCD screen, keypad, bunch of wires and coded good ol' snake from scratch.
 
-| ![](pics/snake.png =250x)  |  ![](pics/snake2.png =250x) |
+| ![](pics/snake.png)  |  ![](pics/snake2.png) |
 |:---:|:---:|
 | LCD screen | Whole setup |
 ## Hardware interrupts
